@@ -1,0 +1,6 @@
+OriginalName,ReplacementName,TourA,TourB,TourC,TourA_FromDate,TourA_ToDate,TourB_FromDate,TourB_ToDate,TourC_FromDate,TourC_ToDate
+Bob,Robert,,,,,,,,,,,
+Adam Jr.,Adam,Adam A,,,,,,,,,,
+Samantha,Sam,Sammy,,,2022-12-01,,,,,,,
+Liz,Elizabeth,Lizzy,,,2022-12-01,2022-12-06,,,,,,
+Tim,Timmy,TimA,TimB,TimC,,,,,,,,
